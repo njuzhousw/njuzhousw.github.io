@@ -132,6 +132,54 @@ and I am excited to translate these insights into real-world system performance 
 
 <hr/>
 
+<section id="education-and-experience">
+<h2>🎓 Education &amp; Experience</h2>
+
+<div class="exp-entry">
+  <div class="exp-header">
+    <span class="exp-date">Sept. 2020 - Present</span>
+    <span class="exp-org">Tsinghua University</span>
+  </div>
+  <ul>
+    <li>Ph.D. in Computer Science and Technology</li>
+    <li>Advisor: Prof. Li Si</li>
+  </ul>
+</div>
+
+<div class="exp-entry">
+  <div class="exp-header">
+    <span class="exp-date">Sept. 2016 - Jun. 2020</span>
+    <span class="exp-org">Peking University</span>
+  </div>
+  <ul>
+    <li>B.S. in Computer Science and Technology</li>
+  </ul>
+</div>
+
+<div class="exp-entry">
+  <div class="exp-header">
+    <span class="exp-date">Jun. 2023 - Sept. 2023</span>
+    <span class="exp-org">Alibaba DAMO Academy</span>
+  </div>
+  <ul>
+    <li>Research Intern, Tongyi Lab</li>
+  </ul>
+</div>
+
+<div class="exp-entry">
+  <div class="exp-header">
+    <span class="exp-date">May 2022 - Aug. 2022</span>
+    <span class="exp-org">Microsoft Research Asia</span>
+  </div>
+  <ul>
+    <li>Research Intern, Systems Group</li>
+  </ul>
+</div>
+
+</section>
+
+<hr/>
+
 <section id="honors-and-awards">
 <h2>🏆 Honors and Awards</h2>
 

@@ -126,3 +126,46 @@
   margin-bottom: 0.4em;
   line-height: 1.55;
 }
+
+/* === Education & Experience section === */
+
+.exp-entry {
+  margin-bottom: 1.5em;
+}
+
+.exp-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.35em;
+}
+
+.exp-date {
+  display: inline-block;
+  background: #fce4e4;
+  color: #c0392b;
+  font-size: 0.82em;
+  font-weight: 500;
+  padding: 2px 10px;
+  border-radius: 10px;
+  letter-spacing: 0.2px;
+}
+
+.exp-org {
+  font-weight: 700;
+  font-size: 0.95em;
+  color: #333;
+}
+
+.exp-entry ul {
+  margin: 0 0 0 1.2em;
+  padding: 0;
+  font-size: 0.9em;
+  color: #555;
+  list-style: disc;
+}
+
+.exp-entry ul li {
+  margin-bottom: 0.2em;
+  line-height: 1.5;
+}

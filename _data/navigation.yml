@@ -8,5 +8,8 @@ main:
   - title: "All Publications"
     url: /publications/
 
+  - title: "Education"
+    url: /#education-and-experience
+
   - title: "Honors and Awards"
     url: /#honors-and-awards
