@@ -33,48 +33,42 @@ and I am excited to translate these insights into real-world system performance 
 
 <div class="pub-entry">
   <div class="pub-title-row">
-    <span class="badge badge-sigcomm">SIGCOMM</span>
-    <em class="pub-title">SwiftNet: Adaptive Congestion Control for Ultra-Low Latency Data Centers.</em>
-  </div>
-  <div class="pub-authors">
-    <span class="author-icon">👤</span>
-    <span><strong>Zhang San</strong>, Li Wei, Wang Fang, Zhao Lei, Chen Jing, Liu Yang, Xu Ming, Sun Hao, Tian Bo, Wu Qian</span>
-  </div>
-  <div class="pub-links">
+    <span class="badge">SIGCOMM</span>
+    <em class="pub-title">SwiftNet: Adaptive Congestion Control for Ultra-Low Latency Networks.</em>
     <a href="#" class="pub-link">📄 Paper</a>
     <a href="#" class="pub-link">🌐 Code</a>
     <a href="#" class="pub-link">📊 Slides</a>
+  </div>
+  <div class="pub-authors">
+    <span class="author-icon">👤</span>
+    <span><strong>Zhang San</strong>, Wang Hao, Li Na, Chen Ming, Liu Yong, Zhao Lei, Sun Qing, Zhou Yu, Wu Min, Hu Tao</span>
   </div>
 </div>
 
 <div class="pub-entry">
   <div class="pub-title-row">
-    <span class="badge badge-nsdi">NSDI</span>
-    <span class="badge badge-award">Outstanding Paper!</span>
-    <em class="pub-title">ZeroLoss: O(1)-Convergence Lossless Ethernet Without Per-Flow State.</em>
-  </div>
-  <div class="pub-authors">
-    <span class="author-icon">👤</span>
-    <span><strong>Zhang San</strong>, Chen Rui, Liu Keqiang, He Zhimeng, Gao Jiaqi, Yin Feiyang, Wang Kexin, Cui Zhengqi, Lin Zhehao, Cao Peirui, Chen Guihai, Tian Chen</span>
-  </div>
-  <div class="pub-links">
+    <span class="badge">NSDI</span>
+    <span class="badge-award">Outstanding Paper!</span>
+    <em class="pub-title">ZeroLoss: One-Step Convergence Lossless Networking at Scale.</em>
     <a href="#" class="pub-link">📄 Paper</a>
     <a href="#" class="pub-link">🌐 Code</a>
     <a href="#" class="pub-link">📊 Slides</a>
+  </div>
+  <div class="pub-authors">
+    <span class="author-icon">👤</span>
+    <span><strong>Zhang San</strong>, Xu Bo, Huang Kai, Lin Feng, Ma Chao, Sophia Miller, Carlos Rivera, Emma Thompson, Zhou Yu, Wu Min, Hu Tao</span>
   </div>
 </div>
 
 <div class="pub-entry">
   <div class="pub-title-row">
-    <span class="badge badge-ton">ToN</span>
-    <em class="pub-title">Revisiting Load Balancing in Node-Centric Datacenter Networks.</em>
+    <span class="badge">ToN</span>
+    <em class="pub-title">Load Balancing Revisited in Modern Datacenter Fabrics.</em>
+    <a href="#" class="pub-link">📄 Paper</a>
   </div>
   <div class="pub-authors">
     <span class="author-icon">👤</span>
-    <span>Li Wei, Rui Ning, Guangyu Zhao, <strong>Zhang San (corresponding author)</strong>, Chang Liu, Yunzhuo Liu, Rui Li, Chengyuan Huang, Tao Sun, Zhiqiang Li, Guihai Chen, Baochun Li, Chen Tian</span>
-  </div>
-  <div class="pub-links">
-    <a href="#" class="pub-link">📄 Paper</a>
+    <span>Wang Hao, Li Na, <strong>Zhang San (corresponding author)</strong>, Chen Ming, Liu Yong, Zhao Lei, Sun Qing, Zhou Yu, Hu Tao</span>
   </div>
 </div>
 
@@ -82,49 +76,43 @@ and I am excited to translate these insights into real-world system performance 
 
 <div class="pub-entry">
   <div class="pub-title-row">
-    <span class="badge badge-osdi">OSDI</span>
-    <span class="badge badge-award">Best Paper!</span>
-    <em class="pub-title">CloudFlow: Efficient Flow Scheduling for Cloud-Native Applications.</em>
-  </div>
-  <div class="pub-authors">
-    <span class="author-icon">👤</span>
-    <span><strong>Zhang San</strong>, Feiyang Xue, Keqiang He, Zhimeng Yin, Gianni Antichi, Jiaqi Gao, Yizhi Wang, Rui Ning, Haixin Nan, Xu Zhang, Peirui Cao, Xiaoliang Wang, Wanchun Dou, Guihai Chen, Chen Tian</span>
-  </div>
-  <div class="pub-links">
+    <span class="badge">OSDI</span>
+    <span class="badge-award">Best Paper!</span>
+    <em class="pub-title">CloudFlow: Scalable Flow Scheduling for Cloud-Native Workloads.</em>
     <a href="#" class="pub-link">📄 Paper</a>
     <a href="#" class="pub-link">🌐 Code</a>
     <a href="#" class="pub-link">📊 Slides</a>
+  </div>
+  <div class="pub-authors">
+    <span class="author-icon">👤</span>
+    <span><strong>Zhang San</strong>, Xu Bo, Huang Kai, Lin Feng, Ma Chao, Sophia Miller, Carlos Rivera, Emma Thompson, Wang Hao, Li Na, Chen Ming, Liu Yong, Zhao Lei, Sun Qing</span>
   </div>
 </div>
 
 <div class="pub-entry">
   <div class="pub-title-row">
-    <span class="badge badge-eurosys">EuroSys</span>
-    <span class="badge badge-award">Best Student Paper!</span>
-    <em class="pub-title">PriorNet: Priority-Aware Networking for Mixed AI Workloads.</em>
-  </div>
-  <div class="pub-authors">
-    <span class="author-icon">👤</span>
-    <span><strong>Zhang San</strong>, Feiyang Xue, Keqiang He, Zhimeng Yin, Gianni Antichi, Jiaqi Gao, Yizhi Wang, Rui Ning, Haixin Nan, Xu Zhang, Peirui Cao, Xiaoliang Wang, Wanchun Dou, Guihai Chen, Chen Tian</span>
-  </div>
-  <div class="pub-links">
+    <span class="badge">EuroSys</span>
+    <span class="badge-award">Best Student Paper!</span>
+    <em class="pub-title">PriorNet: Priority-Driven Networking for AI Training Clusters.</em>
     <a href="#" class="pub-link">📄 Paper</a>
     <a href="#" class="pub-link">🌐 Code</a>
     <a href="#" class="pub-link">📊 Slides</a>
+  </div>
+  <div class="pub-authors">
+    <span class="author-icon">👤</span>
+    <span><strong>Zhang San</strong>, Wang Hao, Li Na, Chen Ming, Liu Yong, Zhao Lei, Sun Qing, Zhou Yu, Wu Min, Hu Tao</span>
   </div>
 </div>
 
 <div class="pub-entry">
   <div class="pub-title-row">
-    <span class="badge badge-tpds">TPDS</span>
-    <em class="pub-title">MultiPath: A Unified Multipath Transport Protocol for GPU Clusters.</em>
+    <span class="badge">TPDS</span>
+    <em class="pub-title">MultiPath: Unified Multipath Transport for Distributed AI Systems.</em>
+    <a href="#" class="pub-link">📄 Paper</a>
   </div>
   <div class="pub-authors">
     <span class="author-icon">👤</span>
-    <span><strong>Zhang San</strong>, Xu Zhang, Zhaoxiang Bao, Liang Wei, Chaohong Tan, Wanchun Dou, Guihai Chen, Chen Tian</span>
-  </div>
-  <div class="pub-links">
-    <a href="#" class="pub-link">📄 Paper</a>
+    <span><strong>Zhang San</strong>, Wang Hao, Li Na, Chen Ming, Liu Yong, Zhao Lei, Sun Qing</span>
   </div>
 </div>
 
@@ -133,48 +121,17 @@ and I am excited to translate these insights into real-world system performance 
 <hr/>
 
 <section id="education-and-experience">
-<h2>🎓 Education &amp; Experience</h2>
+<h2>📖 Education &amp; Experience</h2>
 
-<div class="exp-entry">
-  <div class="exp-header">
-    <span class="exp-date">Sept. 2020 - Present</span>
-    <span class="exp-org">Tsinghua University</span>
-  </div>
-  <ul>
-    <li>Ph.D. in Computer Science and Technology</li>
-    <li>Advisor: Prof. Li Si</li>
-  </ul>
-</div>
+<ul class="edu-list">
+  <li>2020.09 - (now), Tsinghua University, China. Ph.D. in Computer Science and Technology.</li>
+  <li>2016.09 - 2020.06, Peking University, China. B.S. in Computer Science and Technology.</li>
+</ul>
 
-<div class="exp-entry">
-  <div class="exp-header">
-    <span class="exp-date">Sept. 2016 - Jun. 2020</span>
-    <span class="exp-org">Peking University</span>
-  </div>
-  <ul>
-    <li>B.S. in Computer Science and Technology</li>
-  </ul>
-</div>
-
-<div class="exp-entry">
-  <div class="exp-header">
-    <span class="exp-date">Jun. 2023 - Sept. 2023</span>
-    <span class="exp-org">Alibaba DAMO Academy</span>
-  </div>
-  <ul>
-    <li>Research Intern, Tongyi Lab</li>
-  </ul>
-</div>
-
-<div class="exp-entry">
-  <div class="exp-header">
-    <span class="exp-date">May 2022 - Aug. 2022</span>
-    <span class="exp-org">Microsoft Research Asia</span>
-  </div>
-  <ul>
-    <li>Research Intern, Systems Group</li>
-  </ul>
-</div>
+<ul class="edu-list">
+  <li>2023.06 - 2023.09, Alibaba DAMO Academy. Research Intern.</li>
+  <li>2022.05 - 2022.08, Microsoft Research Asia. Research Intern.</li>
+</ul>
 
 </section>
 
